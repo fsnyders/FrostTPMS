@@ -5,6 +5,8 @@ import ssl
 import logging
 import subprocess
 
+#GIT TEST1
+
 from datetime import datetime as dt
 from paho.mqtt.client import connack_string as ack
 
